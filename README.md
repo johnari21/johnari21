@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Jaring Pangan Indonesia.<br>👯 I’m looking to collaborate on Github.<br>🤝 I’m looking for help with React Documentions.<br>🌱 I’m currently learning React.<br>💬 Ask me about Django, Laraver, or any tech-related stuff.
+🔭 I’m currently working on Jaring Pangan Indonesia.<br>👯 I’m looking to collaborate on Github.<br>🤝 I’m looking for help with React Documentions.<br>🌱 I’m currently learning React.<br>💬 Ask me about Django, Laravel, or any tech-related stuff.
 
 
 ## 🌐 Socials:
